@@ -32,7 +32,7 @@
 - Reduces video bandwidth by ~70% via motion vector interpolation
 
 ## 📫 Connect with me
-- [LinkedIn](linkedin.com/in/abdulkhaleq-habib)
+- [LinkedIn](http://httplinkedin.com/in/abdulkhaleq-habib)
 - [Email](abedhabib059@gmail.com)
 - [Resume](رابط إلى PDF السيرة الذاتية)
 
