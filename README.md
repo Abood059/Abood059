@@ -41,6 +41,3 @@ Let's build something great together!
 | **LinkedIn** | [in/abdulkhaleq-habib](http://linkedin.com/in/abdulkhaleq-habib) |
 | **Email** | [abedhabib059@gmail.com](mailto:abedhabib059@gmail.com) |
 
-## 📊 GitHub Stats
-
-(اختياري: أضف بطاقات إحصائيات، لكن ليس ضرورياً لمبتدئ)
