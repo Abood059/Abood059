@@ -33,7 +33,7 @@
 
 ## 📫 Connect with me
 - [LinkedIn](http://linkedin.com/in/abdulkhaleq-habib)
-- [Email](abedhabib059@gmail.com)
+- ![Email](https://img.shields.io/badge/Email-abedhabib059%40gmail.com-blue?style=flat-square&logo=gmail)
 - [Resume](رابط إلى PDF السيرة الذاتية)
 
 ## 📊 GitHub Stats
