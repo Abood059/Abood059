@@ -1,5 +1,4 @@
-# Abdulkah Habib
-
+# Abdulkhaleq Habib
 > Junior Backend Developer | Node.js, Express, REST APIs, Electron.js | Graduating July 2026
 
 ## 🛠️ Tech Stack
@@ -41,3 +40,8 @@ Let's build something great together!
 | **LinkedIn** | [in/abdulkhaleq-habib](http://linkedin.com/in/abdulkhaleq-habib) |
 | **Email** | [abedhabib059@gmail.com](mailto:abedhabib059@gmail.com) |
 
+## 📊 GitHub Analytics
+
+![Abdulkhaleq's Stats](https://github-readme-stats.vercel.app/api?username=Abood059&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abood059&layout=compact&theme=dark&hide_border=true)
