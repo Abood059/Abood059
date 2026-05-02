@@ -31,10 +31,15 @@
 - Python + OpenCV + PyTorch
 - Reduces video bandwidth by ~70% via motion vector interpolation
 
-## 📫 Connect with me
-- [LinkedIn](http://linkedin.com/in/abdulkhaleq-habib)
-- ![Email](https://img.shields.io/badge/Email-abedhabib059%40gmail.com-blue?style=flat-square&logo=gmail)
-- [Resume](رابط إلى PDF السيرة الذاتية)
+---
+
+## 📩 Connect with me
+Let's build something great together!
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [in/abdulkhaleq-habib](http://linkedin.com/in/abdulkhaleq-habib) |
+| **Email** | [abedhabib059@gmail.com](mailto:abedhabib059@gmail.com) |
 
 ## 📊 GitHub Stats
 
