@@ -1,5 +1,5 @@
 # Abdulkhaleq Habib
-> Junior Backend Developer | Node.js, Express, REST APIs, Electron.js | Graduating July 2026
+> Mid-level Backend Developer | Node.js, Express, REST APIs, Electron.js | Graduating July 2026
 
 I'm a final-year CS student from Gaza, Palestine. I build backend systems that actually work – and I'm looking for my first junior role.
 
